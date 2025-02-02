@@ -19,10 +19,11 @@ img{
     display: block;
 }
 
-h1, ul, p, h1,h2,h3,h4, blockquote{
+h1, ul, p, h1,h2,h3,h4, blockquote, dd{
     margin: 0px;
 }
 
 img[src$=".jpg"]{
     border-radius: 5px;
 }   
+
